@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency App</string>
+    <string name="incorrect_request">Неправильно сформирован запрос</string>
+    <string name="incorrect_authorization">Неверная авторизация</string>
+    <string name="element_not_found">Такой элемент не найден на сервере</string>
+    <string name="server_error">Неопознанная ошибка сервера</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="no_connection">Нет интернет соединения</string>
+    <string name="price">%1$s ₽</string>
+    <string name="currency_name">%1$s %2$s</string>
+    <string name="last_update">Обновлено: %1$s</string>
+</resources>
